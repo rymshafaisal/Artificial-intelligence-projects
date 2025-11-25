@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+python-dotenv
+google.generativeai
+openai
+
+
+# pip install -r requirements.txt
+# pip install streamlit PyPDF2 python-dotenv google.generativeai openai
